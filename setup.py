@@ -14,5 +14,5 @@ name="parser_controller",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.8",
-    packages: ["parser_controller"]
+    packages = ["parser_controller"]
 )

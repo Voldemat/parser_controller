@@ -7,7 +7,7 @@ name="parser_controller",
     author="Vladimir Vojtenko",
     author_email="vladimirdev635@google.com",
     description="Controller",
-    url="https://gitlab.com/p6679/parsercontroller",
+    url="https://github.com/Voldemat/parser_controller",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
